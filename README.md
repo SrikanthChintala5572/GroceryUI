@@ -8,6 +8,7 @@ This React project is developed using Node v20.9.0, React 18.
 
 Prereqisites:
 Install Node
+
 using npm install create-react-app(if it is not present)
 
 Steps to run this project:
